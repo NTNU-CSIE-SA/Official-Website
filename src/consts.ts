@@ -7,10 +7,10 @@ export const SITE: Site = {
   AUTHOR: "Mark Horn",
 }
 
-// Work Page
-export const WORK: Page = {
-  TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
+// About Page
+export const ABOUT: Page = {
+  TITLE: "關於",
+  DESCRIPTION: "關於系學會",
 }
 
 // Blog Page
@@ -38,8 +38,8 @@ export const LINKS: Links = [
     HREF: "/", 
   },
   { 
-    TEXT: "Work", 
-    HREF: "/work", 
+    TEXT: "關於", 
+    HREF: "/about",
   },
   { 
     TEXT: "Blog", 
