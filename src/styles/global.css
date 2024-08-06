@@ -43,6 +43,9 @@ body {
 body {
   @apply relative flex flex-col;
 }
+/* id=galaxygalaxy */
+#galaxy{
+}
 
 main {
   @apply flex flex-col flex-1 bg-white dark:bg-black;
