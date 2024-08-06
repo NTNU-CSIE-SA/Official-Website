@@ -64,7 +64,7 @@ The links that are displayed in the header and drawer
 export const LINKS: Links = [
   { HREF: "/", TEXT: "Home" },
   { HREF: "/work", TEXT: "Work" },
-  { HREF: "/blog", TEXT: "Blog" },
+  { HREF: "/blog", TEXT: "Announcement" },
   { HREF: "/projects", TEXT: "Projects" },
 ]
 ```

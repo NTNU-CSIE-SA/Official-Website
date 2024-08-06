@@ -5,12 +5,12 @@ import { cn } from "@lib/utils"
 
 type Props = {
   tags: string[]
-  data: CollectionEntry<"blog">[]
+  data: CollectionEntry<"announcement">[]
 }
 
-export default function Blog({ data, tags }: Props) {
+export default function Announcement({ data, tags }: Props) {
   const [filter, setFilter] = createSignal(new Set<string>())
-  const [posts, setPosts] = createSignal<CollectionEntry<"blog">[]>([])
+  const [posts, setPosts] = createSignal<CollectionEntry<"announcement">[]>([])
 
   createEffect(() => {
     setPosts(data.filter((entry) => 

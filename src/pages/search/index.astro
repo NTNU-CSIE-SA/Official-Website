@@ -6,13 +6,13 @@ import BottomLayout from "@layouts/BottomLayout.astro"
 import Search from "@components/Search"
 import { SEARCH } from "@consts"
 
-const posts = (await getCollection("blog"))
+const posts = (await getCollection("announcement"))
   .filter(post => !post.data.draft)
 
 const projects = (await getCollection("projects"))
   .filter(post => !post.data.draft)
 
-const data = [...posts, ...projects] as CollectionEntry<"blog">[]
+const data = [...posts, ...projects] as CollectionEntry<"announcement">[]
 ---
 
 <PageLayout title={SEARCH.TITLE} description={SEARCH.DESCRIPTION}>

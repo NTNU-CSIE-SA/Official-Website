@@ -27,7 +27,7 @@ https://yourdomain.com/blog/my-new-post
 
 Front matter is in yaml if you are familiar with the format. All posts and projects require frontmatter at the top of the document to be imported. All frontmatter must be inside triple dashes, similar to Astro format. See example below.
 
-### Blog Collection
+### Announcement Collection
 
 | Field   | Type    | Req? | Description                                                   |
 | :------ | :------ | :--- | :------------------------------------------------------------ |
@@ -42,7 +42,7 @@ Example blog post frontmatter
 ```yaml
 ---
 title: "Astro Sphere: Adding a new post or project."
-summary: "Adding a new article (blog post or project) is pretty easy."
+summary: "Adding a new article (announcement post or project) is pretty easy."
 date: "Mar 18 2024"
 draft: false
 tags:
@@ -52,7 +52,7 @@ tags:
 ---
 ```
 
-### Projects Collection (extends Blog Collection)
+### Projects Collection (extends Announcement Collection)
 
 | Field   | Type    | Req? | Description                                                   |
 | :------ | :------ | :--- | :------------------------------------------------------------ |

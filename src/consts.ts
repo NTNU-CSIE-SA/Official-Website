@@ -3,7 +3,7 @@ import type { Site, Page, Links, Socials } from "@types"
 // Global
 export const SITE: Site = {
   TITLE: "Astro Sphere",
-  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
+  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and announcement for designers and developers.",
   AUTHOR: "Mark Horn",
 }
 
@@ -13,10 +13,10 @@ export const ABOUT: Page = {
   DESCRIPTION: "關於系學會",
 }
 
-// Blog Page
-export const BLOG: Page = {
-  TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
+// Announcement Page
+export const ANNOUNCEMENT: Page = {
+  TITLE: "公告",
+  DESCRIPTION: "系學會相關公告",
 }
 
 // Projects Page 
@@ -42,8 +42,8 @@ export const LINKS: Links = [
     HREF: "/about",
   },
   { 
-    TEXT: "Blog", 
-    HREF: "/blog", 
+    TEXT: "公告", 
+    HREF: "/announcement", 
   },
   { 
     TEXT: "Projects", 
