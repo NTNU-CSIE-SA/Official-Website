@@ -21,7 +21,7 @@ const announcement = defineCollection({
   }),
 })
 
-const projects = defineCollection({
+const events = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
@@ -42,4 +42,4 @@ const legal = defineCollection({
   }),
 })
 
-export const collections = { about, announcement, projects, legal }
+export const collections = { about, announcement, events, legal }

@@ -3,26 +3,26 @@ import { getCollection } from "astro:content"
 import PageLayout from "@layouts/PageLayout.astro"
 import TopLayout from "@layouts/TopLayout.astro"
 import BottomLayout from "@layouts/BottomLayout.astro"
-import Projects from "@components/Projects"
-import { PROJECTS } from "@consts"
+import Events from "@components/Events"
+import { EVENTS } from "@consts"
 
-const projects = (await getCollection("projects"))
+const events = (await getCollection("events"))
   .filter(project => !project.data.draft)
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
 
-const tags = [...new Set(projects.flatMap(project => project.data.tags))]
+const tags = [...new Set(events.flatMap(project => project.data.tags))]
   .sort((a, b) => a.localeCompare(b))
 ---
 
-<PageLayout title={PROJECTS.TITLE} description={PROJECTS.DESCRIPTION}>
+<PageLayout title={EVENTS.TITLE} description={EVENTS.DESCRIPTION}>
   <TopLayout>
     <div class="animate page-heading">
-      {PROJECTS.TITLE}
+      {EVENTS.TITLE}
     </div>
   </TopLayout>
   <BottomLayout>
     <div class="animate">
-      <Projects client:load tags={tags} data={projects} />
+      <Events client:load tags={tags} data={events} />
     </div>
   </BottomLayout>
 </PageLayout>

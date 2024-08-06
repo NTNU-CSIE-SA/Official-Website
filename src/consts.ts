@@ -19,16 +19,16 @@ export const ANNOUNCEMENT: Page = {
   DESCRIPTION: "系學會相關公告",
 }
 
-// Projects Page 
-export const PROJECTS: Page = {
-  TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
+// Events Page 
+export const EVENTS: Page = {
+  TITLE: "回顧",
+  DESCRIPTION: "系上歷屆活動",
 }
 
 // Search Page
 export const SEARCH: Page = {
   TITLE: "Search",
-  DESCRIPTION: "Search all posts and projects by keyword.",
+  DESCRIPTION: "Search all posts and events by keyword.",
 }
 
 // Links
@@ -46,8 +46,8 @@ export const LINKS: Links = [
     HREF: "/announcement", 
   },
   { 
-    TEXT: "Projects", 
-    HREF: "/projects", 
+    TEXT: "回顧", 
+    HREF: "/events", 
   },
 ]
 
