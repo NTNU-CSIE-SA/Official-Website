@@ -2,9 +2,9 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
-  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and announcement for designers and developers.",
-  AUTHOR: "Mark Horn",
+  TITLE: "NTNU CSIE SA",
+  DESCRIPTION: "歡迎來到師大資工系學會官方網站",
+  AUTHOR: "師大資工系學會",
 }
 
 // About Page
@@ -34,7 +34,7 @@ export const SEARCH: Page = {
 // Links
 export const LINKS: Links = [
   { 
-    TEXT: "Home", 
+    TEXT: "首頁", 
     HREF: "/", 
   },
   { 
@@ -56,26 +56,32 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Email",
     ICON: "email", 
-    TEXT: "markhorn.dev@gmail.com",
-    HREF: "mailto:markhorn.dev@gmail.com",
+    TEXT: "ntnucsie.union@gmail.com",
+    HREF: "ntnucsie.union@gmail.com",
   },
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    TEXT: "NTNU-CSIE-SA",
+    HREF: "https://github.com/NTNU-CSIE-SA"
   },
   { 
-    NAME: "LinkedIn",
-    ICON: "linkedin",
-    TEXT: "markhorn-dev",
-    HREF: "https://www.linkedin.com/in/markhorn-dev/",
+    NAME: "Facebook",
+    ICON: "facebook",
+    TEXT: "師大資工系系學會",
+    HREF: "https://www.facebook.com/ntnucsieclub"
   },
   { 
-    NAME: "Twitter",
-    ICON: "twitter-x",
-    TEXT: "markhorn_dev",
-    HREF: "https://twitter.com/markhorn_dev",
+    NAME: "Instagram",
+    ICON: "instagram",
+    TEXT: "ntnu_csie",
+    HREF: "https://www.instagram.com/ntnu_csie",
+  },
+  {
+    NAME: "Discord",
+    ICON: "discord",
+    TEXT: "NTNUCSIE Student Association 🎉🎉",
+    HREF: "https://discord.gg/byydwBR2Hc",
   },
 ]
 
