@@ -3,15 +3,15 @@ import type { CollectionEntry } from "astro:content"
 import { formatDate, readingTime } from "@lib/utils"
 
 type Props = {
-  entry: CollectionEntry<"events"> | CollectionEntry<"announcement">
+  entry: CollectionEntry<"review"> | CollectionEntry<"announcement">
 }
 
 const { entry } = Astro.props
 const { collection, data, body } = entry
 const { title, summary, date } = data
 
-const photosUrl = collection === "events" ? data.photosUrl : null
-const eventUrl = collection === "events" ? data.eventUrl : null
+const photosUrl = collection === "review" ? data.photosUrl : null
+const eventUrl = collection === "review" ? data.eventUrl : null
 ---
 
 <div>

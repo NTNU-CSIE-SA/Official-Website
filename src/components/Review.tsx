@@ -5,15 +5,15 @@ import { cn } from "@lib/utils"
 
 type Props = {
   tags: string[]
-  data: CollectionEntry<"events">[]
+  data: CollectionEntry<"review">[]
 }
 
-export default function Events({ data, tags }: Props) {
+export default function Review({ data, tags }: Props) {
   const [filter, setFilter] = createSignal(new Set<string>())
-  const [events, setEvents] = createSignal<CollectionEntry<"events">[]>([])
+  const [review, setReview] = createSignal<CollectionEntry<"review">[]>([])
 
   createEffect(() => {
-    setEvents(data.filter((entry) => 
+    setReview(data.filter((entry) => 
       Array.from(filter()).every((value) => 
         entry.data.tags.some((tag:string) => 
           tag.toLowerCase() === String(value).toLowerCase()
@@ -56,10 +56,10 @@ export default function Events({ data, tags }: Props) {
       <div class="col-span-3 sm:col-span-2">
         <div class="flex flex-col">
           <div class="text-sm uppercase mb-2">
-            SHOWING {events().length} OF {data.length} EVENTS
+            SHOWING {review().length} OF {data.length} REVIEW
           </div>
           <ul class="flex flex-col gap-3">
-            {events().map((project) => (
+            {review().map((project) => (
               <li>
                 <ArrowCard entry={project} />
               </li>

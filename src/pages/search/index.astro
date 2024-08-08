@@ -9,10 +9,10 @@ import { SEARCH } from "@consts"
 const posts = (await getCollection("announcement"))
   .filter(post => !post.data.draft)
 
-const events = (await getCollection("events"))
+const review = (await getCollection("review"))
   .filter(post => !post.data.draft)
 
-const data = [...posts, ...events] as CollectionEntry<"announcement">[]
+const data = [...posts, ...review] as CollectionEntry<"announcement">[]
 ---
 
 <PageLayout title={SEARCH.TITLE} description={SEARCH.DESCRIPTION}>

@@ -9,7 +9,7 @@ const subpath = pathname.match(/[^/]+/g)
   <nav class="flex flex-col items-center space-y-2">
     {
       LINKS.map((LINK) => (
-        <a href={LINK.HREF} class={cn("flex items-center justify-center px-3 py-1 rounded-full", "text-current hover:text-black dark:hover:text-white", "hover:bg-black/5 dark:hover:bg-white/20", "transition-colors duration-300 ease-in-out", pathname === LINK.HREF || "/" + subpath?.[0] === LINK.HREF ? "pointer-events-none bg-black dark:bg-white text-white dark:text-black" : "")}>
+        <a href={LINK.HREF} class={cn("flex items-center justify-center px-3 py-1 rounded-full", "text-current hover:text-black dark:hover:text-white", "hover:bg-black/5 dark:hover:bg-white/20", "transition-colors duration-300 ease-in-out", pathname === LINK.HREF || "/" + subpath?.[0] === LINK.HREF ? "pointer-review-none bg-black dark:bg-white text-white dark:text-black" : "")}>
           {LINK.TEXT}
         </a>
       ))
@@ -17,7 +17,7 @@ const subpath = pathname.match(/[^/]+/g)
   </nav>
 
   <div class="flex gap-1 mt-5">
-    <a href="/search" aria-label={`Search announcement posts and events on ${SITE.TITLE}`} class={cn("size-9 rounded-full p-2 items-center justify-center bg-transparent hover:bg-black/5 dark:hover:bg-white/20 stroke-current hover:stroke-black hover:dark:stroke-white border border-black/10 dark:border-white/25 transition-colors duration-300 ease-in-out", pathname === "/search" || "/" + subpath?.[0] === "search" ? "pointer-events-none bg-black dark:bg-white text-white dark:text-black" : "")}>
+    <a href="/search" aria-label={`Search announcement posts and review on ${SITE.TITLE}`} class={cn("size-9 rounded-full p-2 items-center justify-center bg-transparent hover:bg-black/5 dark:hover:bg-white/20 stroke-current hover:stroke-black hover:dark:stroke-white border border-black/10 dark:border-white/25 transition-colors duration-300 ease-in-out", pathname === "/search" || "/" + subpath?.[0] === "search" ? "pointer-review-none bg-black dark:bg-white text-white dark:text-black" : "")}>
       <svg class="size-full">
         <use href="/ui.svg#search"></use>
       </svg>

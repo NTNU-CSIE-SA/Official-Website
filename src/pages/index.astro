@@ -12,7 +12,7 @@ const posts = (await getCollection("announcement"))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0,3)
 
-const events = (await getCollection("events"))
+const review = (await getCollection("review"))
   .filter(project => !project.data.draft)
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0,3)

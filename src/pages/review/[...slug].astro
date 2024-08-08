@@ -6,17 +6,17 @@ import BottomLayout from "@layouts/BottomLayout.astro"
 import ArticleTopLayout from "@layouts/ArticleTopLayout.astro"
 import ArticleBottomLayout from "@layouts/ArticleBottomLayout.astro"
 
-// Create the static events pages
+// Create the static review pages
 export async function getStaticPaths() {
-	const events = await getCollection("events")
-	return events.map((project) => ({
+	const review = await getCollection("review")
+	return review.map((project) => ({
 		params: { slug: project.slug },
 		props: project,
 	}))
 }
 
 // Get the requested project
-type Props = CollectionEntry<"events">
+type Props = CollectionEntry<"review">
 const project = Astro.props
 const { title, summary } = project.data
 ---
