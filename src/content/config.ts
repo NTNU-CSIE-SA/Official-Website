@@ -29,8 +29,8 @@ const events = defineCollection({
     date: z.coerce.date(),
     tags: z.array(z.string()),
     draft: z.boolean().optional(),
-    demoUrl: z.string().optional(),
-    repoUrl: z.string().optional(),
+    photosUrl: z.string().optional(),
+    eventUrl: z.string().optional(),
   }),
 })
 
