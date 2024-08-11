@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="background.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.48414457"
+     inkscape:cx="982.14465"
+     inkscape:cy="604.15838"
+     inkscape:window-width="1472"
+     inkscape:window-height="890"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="447.58987"
+       y="356.61632"
+       width="1051.6543"
+       height="378.44997"
+       id="rect9" />
+    <linearGradient
+       id="swatch7"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#d40000;stop-opacity:0;"
+         offset="0"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#f6ec98;fill-opacity:1;stroke:#ff0000;stroke-width:0.265;stroke-dasharray:none"
+       id="rect6"
+       width="509.2265"
+       height="286.73959"
+       x="0.13249999"
+       y="0.13249999" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Heiti SC';-inkscape-font-specification:'Heiti SC';white-space:pre;shape-inside:url(#rect9);display:inline;opacity:1;fill:#d4b700;fill-opacity:1;stroke:#edff00;stroke-width:0;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.8611px;font-family:'Heiti SC';-inkscape-font-specification:'Heiti SC';opacity:1;fill:#d4cd00;fill-opacity:1;stroke:#edff00;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="247.61079"
+       y="74.978333"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.8611px;font-family:Zapfino;-inkscape-font-specification:Zapfino;text-align:center;text-anchor:middle;fill:#d48000;fill-opacity:1;stroke-width:0"
+         x="247.61079"
+         y="74.978333">NTNU</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.8611px;font-family:Zapfino;-inkscape-font-specification:Zapfino;text-align:center;text-anchor:middle;fill:#d48000;fill-opacity:1;stroke-width:0"
+         x="247.61079"
+         y="145.67644"
+         id="tspan11">CSIE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.8611px;font-family:Zapfino;-inkscape-font-specification:Zapfino;text-align:center;text-anchor:middle;fill:#d48000;fill-opacity:1;stroke-width:0"
+         x="247.61079"
+         y="216.37453"
+         id="tspan12">SA</tspan></text>
+  </g>
+</svg>

@@ -23,7 +23,6 @@
 html {
   overflow-y: scroll;
   color-scheme: light;
-  background-color: white;
   font-family: "Atkinson", sans-serif;
   
 }
@@ -43,8 +42,11 @@ body {
 body {
   @apply relative flex flex-col;
 }
-/* id=galaxygalaxy */
 #galaxy{
+  background-image: url("/background.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 main {
