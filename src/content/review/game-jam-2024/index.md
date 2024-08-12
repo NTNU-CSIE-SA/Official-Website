@@ -7,8 +7,8 @@ tags:
 - 系學會
 - 資訊股
 - Game Jam
-photosUrl: https://itch.io/jam/normal-game-jam-2024
-eventUrl: https://photos.app.goo.gl/djxfeBv82fcBdVW29
+photosUrl: https://photos.app.goo.gl/djxfeBv82fcBdVW29
+eventUrl: https://itch.io/jam/normal-game-jam-2024 
 ---
 
 ## 舉辦時間
