@@ -3,7 +3,6 @@ import PageLayout from "@layouts/PageLayout.astro";
 import TopLayout from "@layouts/TopLayout.astro";
 import BottomLayout from "@layouts/BottomLayout.astro";
 import { ABOUT } from "@consts";
-
 ---
 
 <PageLayout title={ABOUT.TITLE} description={ABOUT.DESCRIPTION}>
@@ -16,9 +15,12 @@ import { ABOUT } from "@consts";
   <BottomLayout>
     <ul>
       <li
-        class="animate page-subheading border-b border-black/10 dark:border-white/25"
+        class="animate page-subheading border-b border-black/10
+      dark:border-white/25"
       >
-        <li class="animate border-b border-black/10 dark:border-white/25 mt-4 py-8 first-of-type:mt-0 first-of-type:pt-0 last-of-type:border-none">
+        <li
+          class="animate border-b border-black/10 dark:border-white/25 mt-4 py-8 first-of-type:mt-0 first-of-type:pt-0 last-of-type:border-none"
+        >
           <div class="text-sm uppercase mb-4">系學會行事曆</div>
           <iframe
             src="https://calendar.google.com/calendar/embed?src=2db51ac602b61fa50658f3d9404fb28a0f48ca62d83d88a5ddcc902d4510bbcb%40group.calendar.google.com&ctz=Asia%2FTaipei"
@@ -44,7 +46,22 @@ import { ABOUT } from "@consts";
           class="animate border-b border-black/10 dark:border-white/25 mt-4 py-8 first-of-type:mt-0 first-of-type:pt-0 last-of-type:border-none"
         >
           <div class="text-sm uppercase mb-4">系學會組織章程</div>
-          <iframe src="https://drive.google.com/file/d/19WdK408GKTUQasDaHSsDKA2BqCF8l98f/preview" width="100%" height="480" allow="autoplay"></iframe>
+          <iframe
+            src="https://drive.google.com/file/d/19WdK408GKTUQasDaHSsDKA2BqCF8l98f/preview"
+            width="100%"
+            height="480"
+            allow="autoplay"></iframe>
+        </li>
+        <li
+          class="animate border-b border-black/10 dark:border-white/25 mt-4 py-8 first-of-type:mt-0 first-of-type:pt-0 last-of-type:border-none"
+        >
+          <div class="text-sm uppercase mb-4">113 學年度會費辦法</div>
+          <iframe
+            src="https://drive.google.com/file/d/1efuDq805ws18-BwQeO4h1c9VXBmxPTpS/preview"
+            width="100%"
+            height="480"
+            allow="autoplay"></iframe>
+        </li>
       </li>
     </ul>
   </BottomLayout>
