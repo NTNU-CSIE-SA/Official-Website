@@ -27,7 +27,11 @@
     const particles2 = document.getElementById('particles2');
     const particles3 = document.getElementById('particles3');
 
+  
+    
+
     if (particles1) {
+      
       particles1.style.cssText = `
       width: 1px;
       height: 1px;
