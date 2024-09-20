@@ -50,6 +50,10 @@ const stack = [
     <div id='particles3' class='fixed inset-0'></div>
   </div>
 
+  <!-- Light Mode: Galaxy Light -->
+  <div id="galaxyLight" class="fixed inset-0 block dark:hidden">
+  </div>
+
   <!-- Dark Theme: Stars -->
   <div class='absolute inset-0 bg-black hidden dark:block'>
     <div id='stars1' class='fixed inset-0'></div>
@@ -57,11 +61,11 @@ const stack = [
     <div id='stars3' class='fixed inset-0'></div>
   </div>
 
+
+
   <!-- Dark Theme: Twinkling Stars / Metors -->
-  <div id="galaxy" class="fixed inset-0">
-    <div class="hidden dark:block">
-      
-    </div>
+  <div id="galaxy" class="fixed inset-0 hidden dark:block">
+
   </div>
 
   <!-- <script is:inline src="/js/bg.js"></script> -->
@@ -78,13 +82,10 @@ const stack = [
     <div class="animate absolute h-full w-full flex items-center justify-center">
       <div class='relative w-full h-full flex items-end justify-center'>
         <div class='p-5 text-center'>
-          <p class='animated text-lg md:text-xl lg:text-2xl font-semibold opacity-75'>
-            歡迎來到
-          </p>
-          <p class='animated text-2xl md:text-3xl lg:text-4xl font-bold uppercase text-black dark:text-white'>
+          <p class='animated mt-auto text-2xl md:text-3xl lg:text-2.5xl font-bold uppercase text-black dark:text-white'>
             國立臺灣師範大學 資訊工程學系學會
           </p>
-          <p class='animated text-sm md:text-base lg:text-lg opacity-75'>
+          <p class='animated mt-auto text-sm md:text-base lg:text-lg opacity-75'>
             官方網站
           </p>
           <div id="ctaButtons" class='animated flex flex-wrap gap-4 justify-center mt-5'>
@@ -106,7 +107,7 @@ const stack = [
       <!-- About Section -->
       <section class="animate">
         <article>
-          <p>歡迎來到師大資工系學會官方網站，系學會相關資訊都會放在這裡。</p>
+          <p class="animated text-lg md:text-xl lg:text-l">歡迎來到師大資工系學會官方網站，系學會相關資訊都會放在這裡。</p>
         </article>
       </section>
 

@@ -45,7 +45,12 @@ body {
 #galaxy{
   background-image: url("/background.svg");
   background-size: contain;
-  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#galaxyLight{
+  background-image: url("/background_white.svg");
+  background-size: contain;
   background-position: center;
 }
 
