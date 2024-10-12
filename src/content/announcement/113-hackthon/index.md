@@ -25,7 +25,7 @@ tags:
 
 大獎有涮乃葉吃到飽餐券😋、樹苺派 3B+ 套組😍，參加完賽者甚至能獲得抽獎資格，獎項有千葉火鍋餐券、Arduino Uno…各式大獎等你來拿！🛐🛐🛐
 
-還可以抽 Gogo…（就說沒有要抽 Gogoro!）
+~~還可以抽 Gogo…~~（就說沒有要抽 Gogoro!）
 
 還在等什麼！快填報名表單！https://forms.gle/2CbCvNEQeysqQqUc9
 
