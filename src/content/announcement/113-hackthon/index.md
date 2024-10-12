@@ -1,7 +1,7 @@
 ---
 title: "2024 師大資工黑客松：白吃白喝黑客松（白客松）"
 summary: "資工系學會將在 11/2 ～ 11/3 舉辦年度黑客松！無論你是喜歡實作開發還是創意發想，都能在這次活動中找到適合你的舞台。"
-date: "Oct 3 2024"
+date: "Oct 12 2024"
 draft: false
 tags:
 - 系學會
@@ -29,6 +29,8 @@ tags:
 
 還在等什麼！快填報名表單！https://forms.gle/2CbCvNEQeysqQqUc9
 
+![image](./hackthon_title.png)
+![image](./hackthon_content.png)
 ---
 
 ## 詳細資訊
