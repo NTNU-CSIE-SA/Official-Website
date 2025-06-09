@@ -48,4 +48,4 @@ May 17 2024 17:00 ~ May 19 2024 17:00
 
 ## 最終回顧
 
-<embed src="/review-source/Game-Jam-Closing.pdf" width="100%" height="500">
+<embed src="/review-source/Game-Jam-2024-Closing.pdf" width="100%" height="500">
