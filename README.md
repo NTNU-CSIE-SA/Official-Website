@@ -1,3 +1,72 @@
+# 師大資工系學會官網
+## 如何使用
+### 下載
+```bash
+git clone https://github.com/NTNU-CSIE-SA/Official-Website.git
+```
+### 軟體需求
+- pnpm
+- Node.js
+
+### 安裝
+```bash
+pnpm install
+```
+### 預覽
+```bash
+pnpm dev
+```
+接著去瀏覽器打開 terminal 中顯示的網址，預設為 `http://localhost:4321`
+
+### 部署到正式官網
+只需把更改的內容 commit 後 push 到 `main` branch 即可。
+盡量在 commit 中加上如 `fix: ` 或 `feat: ` 前綴來說明這次 commit 的種類，`feat: ` 代表這次 commit 是一個新文章，`fix: ` 代表這次 commit 修正了一個文章內錯誤或是是修正了網站的錯誤。
+
+## 撰寫公告 / 回顧
+### 公告撰寫方式
+到 `src/content/announcement/` 中新增一個想要作為網址名稱的 directory，然後在裡面新增 `index.md` 檔案
+### 回顧撰寫方式
+到 `src/content/review/` 中新增一個想要作為網址名稱的 directory，然後在裡面新增 `index.md` 檔案
+### 內文格式
+內容格式如下：
+```
+---
+title: "<標題>"
+summary: "<摘要>"
+date: "<MMM> <DD> <YYYY>" # 如 "Sep 01 2024"
+draft: true
+tags:
+- 系學會
+- <股別>
+photosUrl: <網路相簿連結> # 此項目非必需
+eventUrl: <活動連結> # 此項目非必需
+---
+
+<Markdown 內容>
+```
+
+#### 嵌入照片
+如果需要嵌入照片，在該 directory 中新增圖片，然後用 markdown 語法引用圖片，例如：
+```
+![圖片說明](./image_name.jpg)
+```
+或是直接使用外部圖片網址
+```
+![圖片說明](https://example.com/image_name.jpg)
+```
+#### 嵌入 PDF
+如果需要嵌入 PDF，請在 `public` 目錄下尋找分類之 directory，並在其底下新增 PDF 檔案，如無分類，請自行創建
+
+接著在 markdown 中使用 `<embed>` 標籤引用，例如：
+```html
+<embed src="/review-source/Game-Jam-2024-Closing.pdf" width="100%" height="500">
+```
+或是使用外部網址嵌入
+```html
+<embed src="https://example.com/PDFfile.pdf" width="100%" height="500">
+```
+
+
 ![Astro Sphere Lighthouse Score](_astrosphere.jpg)
 
 Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
