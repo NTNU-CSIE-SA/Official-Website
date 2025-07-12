@@ -31,10 +31,10 @@ pnpm dev
 內容格式如下：
 ```
 ---
-title: "<標題>"
-summary: "<摘要>"
-date: "<MMM> <DD> <YYYY>" # 如 "Sep 01 2024"
-draft: true
+title: "<標題>" # 頁面標題跟文章標題
+summary: "<摘要>" # 在外面顯示的摘要
+date: "<MMM> <DD> <YYYY>" # 發布日期，時間還沒到的文章不會顯示，格式如 "Sep 01 2024"，
+draft: false # 是否為草稿，若為 true 則不會顯示在網站上
 tags:
 - 系學會
 - <股別>
