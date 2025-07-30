@@ -87,7 +87,7 @@ tags:
 
 ### 修業規定整理
 
-![通識課程](https://live.staticflickr.com/65535/54688115671_7e391acafe_m.jpg)
+![通識課程](https://www.flickr.com/photos/203231774@N05/54688454300/in/dateposted-public/)
 <!-- ![系必修](./一般課程.png)
 ![系選修](./領域選修.png)
 ![系選修](./非領域選修.png) -->
