@@ -87,10 +87,10 @@ tags:
 
 ### 修業規定整理
 
-![通識課程](https://live.staticflickr.com/65535/54688115671_7e391acafe_w.jpg)
-<!-- ![系必修](./一般課程.png)
-![系選修](./領域選修.png)
-![系選修](./非領域選修.png) -->
+![通識課程](https://live.staticflickr.com/65535/54688454300_ecdccf1645_w.jpg)
+![系必修](https://live.staticflickr.com/65535/54688115671_7e391acafe_w.jpg)
+![系選修](https://live.staticflickr.com/65535/54688115681_dfd596421b_w.jpg)
+![系選修](https://live.staticflickr.com/65535/54688115676_0710c3833e_w.jpg)
 
 ### 系網和官網說明
 上面的統整僅為參考，還是以系網及學校官網的說明為準！
