@@ -95,15 +95,10 @@ tags:
 * 自由選修
 
 ### 修業規定整理
-<img src="https://live.staticflickr.com/65535/54688454300_ecdccf1645_w.jpg" width="400">
-
-<img src="https://live.staticflickr.com/65535/54688115671_7e391acafe_w.jpg" width="400">
-
-<img src="https://live.staticflickr.com/65535/54688115681_dfd596421b_w.jpg" width="400">
-
-<img src="https://live.staticflickr.com/65535/54688366113_ffcea0112a_n.jpg" width="400">\
-<img src="https://live.staticflickr.com/65535/54688481595_59a0c1c561_z.jpg" width="400">
-
+![](./GradReqs-1.svg)
+![](./GradReqs-2.svg)
+![](./GradReqs-3.svg)
+![](./GradReqs-4.svg)
 ### 系網和官網說明
 上面的統整僅為參考，還是以系網及學校官網的說明為準！
 (本屆新生為 114 學士班)
