@@ -15,7 +15,7 @@ tags:
 不要忘記加入你們的社團跟群組！
 專導也都會在裡面，會有很多資訊喔！
 
-[師大資工 118 FB社團](https://www.facebook.com/share/g/1AsqCo2LYg/)
+[師大資工 118 FB 社團](https://www.facebook.com/share/g/1AsqCo2LYg/)
 
 [LINE群組](https://line.me/ti/g/T4vJBzHdxr)
 
@@ -99,11 +99,12 @@ tags:
 ![](./GradReqs-2.svg)
 ![](./GradReqs-3.svg)
 ![](./GradReqs-4.svg)
+
 ### 系網和官網說明
 上面的統整僅為參考，還是以系網及學校官網的說明為準！
 (本屆新生為 114 學士班)
 
-[師大資工系網（修業規定）](https://www.csie.ntnu.edu.tw/wp-content/uploads/2023/06/112%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%AD%B8%E5%A3%AB%E7%8F%AD%E4%BF%AE%E6%A5%AD%E8%A6%8F%E5%AE%9A.pdf)
+[師大資工系網（修業規定）](https://www.csie.ntnu.edu.tw/wp-content/uploads/2025/07/114學年度學士班修業規定.pdf)
 
 ### 學程
 **教育學程**
@@ -119,10 +120,10 @@ tags:
 
 
 ## 選課
-[選課系統-大一](https://cos1s.ntnu.edu.tw/AasEnrollStudent/LoginCheckCtrl?language=TW)
+[選課系統 - 大一](https://cos1s.ntnu.edu.tw/AasEnrollStudent/LoginCheckCtrl?language=TW)
 
 ### 選課規則
-1. 選課時間 **8/22 到 8/25**，每日**9:00 到 24:00**。
+1. 選課時間 **8/22 到 8/25**，每日 **9:00 到 24:00**。
 2. 選課方式分為三種，系統帶入、即時選課和填志願後分發。
     - 系上必修是由系統帶入的，不用多做操作
     - 通識、體育課程是填志願後分發，這四天慢慢看好再選就好
@@ -131,10 +132,10 @@ tags:
 
 
 ### 其他資訊
-[選課注意事項](https://www.aa.ntnu.edu.tw/uploads/asset/data/64b7986f843f75094a41cbdd/112%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC1%E5%AD%B8%E6%9C%9F_%E5%90%84%E5%AD%B8%E5%88%B6%E9%81%B8%E8%AA%B2%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%851120719%E5%85%AC%E5%91%8A%E7%89%88.pdf)
-[資工系課表](https://www.csie.ntnu.edu.tw/wp-content/uploads/2023/06/%E8%B3%87%E5%B7%A5%E8%AA%B2%E8%A1%A8112-1-20230606.pdf)
+[選課注意事項](https://www.aa.ntnu.edu.tw/uploads/asset/data/68788c22843f75e5778fc823/114學年度第1學期_各學制選課注意事項1140717公告版.pdf)
+[資工系課表](https://www.csie.ntnu.edu.tw/wp-content/uploads/2025/05/資工114-1-20250728.pdf)
 [開課查詢系統](https://courseap2.itc.ntnu.edu.tw/acadmOpenCourse/index.jsp)
-[選課系統操作手冊](https://www.aa.ntnu.edu.tw/download.php?filename=131_ffe68c43.pdf&dir=archive&title=%E9%81%B8%E8%AA%B2%E7%B3%BB%E7%B5%B1%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A)
+[選課系統操作手冊](https://www.aa.ntnu.edu.tw/uploads/asset/data/6886cc1e843f75c9e782e5fb/選課系統操作手冊-114版.pdf)
 
 
 ## 系隊介紹
@@ -154,8 +155,8 @@ tags:
 
 ![系排二](https://live.staticflickr.com/65535/54691153653_c360bde5a0.jpg)
 
-[系排 Fackbook 社團（點擊連結或掃 QRCode）](https://www.facebook.com/groups/138531536204831/?ref=share)\
-![系排QR](https://live.staticflickr.com/65535/54691263200_b0c14bfc89_w.jpg)
+[系排 Facebook 社團（點擊連結或掃 QRCode）](https://www.facebook.com/groups/138531536204831/?ref=share)\
+![系排 QR Code](https://live.staticflickr.com/65535/54691263200_b0c14bfc89_w.jpg)
 
 
 ### 系羽
@@ -171,8 +172,8 @@ tags:
 
 ![系羽](https://live.staticflickr.com/65535/54691179849_4a6f0468e1_w.jpg)
 
-[系羽Fackbook 社團（點擊連結或掃 QRCode）](https://www.facebook.com/groups/ntnucsie.bmt)\
-![系羽QR](https://live.staticflickr.com/65535/54691191884_78021e2058_n.jpg)
+[系羽 Facebook 社團（點擊連結或掃 QRCode）](https://www.facebook.com/groups/ntnucsie.bmt)\
+![系羽 QR Code](https://live.staticflickr.com/65535/54691191884_78021e2058_n.jpg)
 
 ### 系桌
 資工系桌球隊，一個你以為會「鍵盤強，球拍廢」的地方，結果根本是全場最強的存在。我們不是那種練一練人就消失、比賽一輪遊的塑膠隊，我們是那種真的會練、練到流汗、練到變強的那種隊伍。
@@ -189,7 +190,7 @@ tags:
 ![系桌](https://live.staticflickr.com/65535/54690930021_5de56c7e93_z.jpg)
 
 
-### 籃球
+### 系籃
 籃球，不只是比賽，更是一種熱血、執著與團隊的象徵。
 無論你是追求速度的控衛、掌控籃板的中鋒，還是三分命中的射手，資工系籃都期待你的加入！
 
@@ -211,7 +212,7 @@ tags:
 別擔心，學系之夜將陪你一起探索大學的新世界！學長姐會帶領大家認識資工系的生活圈，並準備各種有趣的活動，讓彼此更熟悉，拉近距離。\
 這不只是了解環境的機會，更是結交朋友、開啟大學生活的第一步，讓我們一起創造屬於資工人的回憶吧！
 
-![學系](https://live.staticflickr.com/65535/54691179834_ba2bb1f896.jpg)
+![學系](../../review/cs-night-2024/2024_night.jpeg)
 
 
 ### 新生茶會
@@ -229,7 +230,7 @@ tags:
 
 ![系烤](https://live.staticflickr.com/65535/54691794877_67aeaa7818_z.jpg)
 
-### GAME JAM
+### Normal GAME JAM
 想體驗 48 小時內從零開始做出一款遊戲的快感嗎？
 Game Jam就是你的舞台！這是一場腦力與創意的盛宴，大家組隊創作，從題目揭曉到最後 DEMO，一起挑戰自我，燃燒對遊戲開發的熱情！
 
@@ -238,7 +239,7 @@ Game Jam就是你的舞台！這是一場腦力與創意的盛宴，大家組隊
 
 來吧，準備好你的點子，加入我們，一起創造屬於資工人的遊戲傳說！
 
-![game jam](https://live.staticflickr.com/65535/54691153723_60126b99cd_w.jpg)
+![game jam](../../review/game-jam-2025/ending.png)
 
 
 ## 生活指南
@@ -281,20 +282,20 @@ Game Jam就是你的舞台！這是一場腦力與創意的盛宴，大家組隊
 
 **張育瑄**
 
-Discord:hotcream88\
-LINE:0963331961
+Discord: hotcream88\
+LINE: 0963331961
 
 **黃崇恩**
 
-Discord:enhuang0711\
-LINE:0972191813
+Discord: enhuang0711\
+LINE: 0972191813
 
 **范峻瑞**
 
-Discord:bili9493\
-LINE:freeze123456789
+Discord: bili9493\
+LINE: freeze123456789
 
 **佘宥塍**
 
-Discord:andyshe\
-LINE:andy950811
+Discord: andyshe\
+LINE: andy950811
